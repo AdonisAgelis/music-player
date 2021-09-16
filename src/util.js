@@ -71,6 +71,15 @@ const chillHop = () => {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: 'Vitamin D',
+      cover: 'https://i.scdn.co/image/ab67616d0000b273143118dd9f488d42f78da13c',
+      artist: 'fantompower',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=22790',
+      color: ['#cfe1e1', '#bf85c3'],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 };
 
