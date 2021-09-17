@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can find the Gravity Music Application here: (https://vigorous-yalow-477029.netlify.app/).
+You can find the Gravity Music Application here: https://vigorous-yalow-477029.netlify.app/
 
 ## Available Scripts
 
